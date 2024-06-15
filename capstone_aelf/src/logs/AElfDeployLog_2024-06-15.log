@@ -1,0 +1,48 @@
+2024-06-15 10:55:16,450 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 10:55:16,639 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 10:55:16,837 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 10:55:51,025 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 10:55:51,115 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 10:55:51,337 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 10:56:31,784 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 10:56:31,874 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 10:56:32,073 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 10:57:22,412 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 10:57:22,504 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 10:57:22,697 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 10:58:26,074 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 10:58:26,166 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 10:58:26,374 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 11:01:38,411 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 11:01:38,507 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 11:01:38,695 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 11:01:56,167 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 11:01:56,260 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 11:01:56,659 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 11:04:13,753 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 11:04:13,845 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! Ananthan
+2024-06-15 11:04:14,060 [1] ERROR AElfChain.Common.Managers.AccountManager - tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2: Incorrect password! 12345678
+2024-06-15 11:06:19,117 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-15 11:06:22,811 [1] INFO  AElfChain.Common.Managers.AccountManager - Account 'tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2' successfully unlocked!
+2024-06-15 11:06:23,988 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Token contract address: ASh2Wt7nSEmYqnGxPPzp4pnVDU4uhj1XW9Se5VeZcX2UDdyjx
+2024-06-15 11:06:24,160 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Consensus contract address: 2KPUA5wG78nnNmK9JsRWbFiEFUEfei9WKniZuKaVziDKZRwchM
+2024-06-15 11:06:24,675 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Parliament contract address: vcv1qewcsFN2tVWqLuu7DJ5wVFA8YEx5FFgCQBb1jMCbAQHxV
+2024-06-15 11:06:24,731 [1] INFO  AElf.Deploy.Cli.Program - ======== AddWhiteList ========
+2024-06-15 11:06:24,901 [1] INFO  AElf.Deploy.Cli.Program - { "proposers": [ "V6LuP6FXKPoXqR5V9X2XuufZ8wSwKu4kNJbxY8i9JJ4NDPxib", "2UKQnHcQvhBT6X6ULtfnuh3b9PVRvVMEroHHkcK4YfcoH1Z1x2" ] }
+2024-06-15 11:06:28,550 [1] INFO  AElf.Deploy.Cli.Program - ======== Genesis contract is in ProposalWhiteList ========
+2024-06-15 11:06:28,551 [1] INFO  AElf.Deploy.Cli.Program - ======== WithoutApproval ========
+2024-06-15 11:06:29,979 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Transaction method: DeployUserSmartContract, TxId: 89e1a64e7e463fbbc21b99350757c955d617db606138ea78878d41b4c3799a58
+2024-06-15 11:06:34,160 [1] INFO  AElfChain.Common.Managers.NodeManager - Transaction 89e1a64e7e463fbbc21b99350757c955d617db606138ea78878d41b4c3799a58 Method:DeployUserSmartContract, Status: Mined-[Fee=0]
+2024-06-15 11:06:35,165 [1] INFO  AElf.Deploy.Cli.Program - Code hash: c787a717ee53d667dfca30bf7f17463a4c7bff4765e3c660c3a09ca328d23f00
+ ProposalInput: 95146d1a9c2ef9e768a5f0d5f2b72bb7f4eb257475539ff2b0e3556fd0b4d261
+ Proposal Id: 60fba6f8fb6300ad2809e059b26303c11d3a63133ede05f30d22b23046a0b848
+2024-06-15 11:06:35,862 [1] INFO  AElf.Deploy.Cli.Program - ======== Check Proposal Info ========
+2024-06-15 11:06:58,218 [1] INFO  AElf.Deploy.Cli.Program - Check height: 123580962 - 123581015
+2024-06-15 11:07:27,983 [1] INFO  AElf.Deploy.Cli.Program - Release Transaction: 5b83f54a4ebfe8d6d4af4a4edd45ffec0547bddc36bab3d6e4abc54f60ea40d6
+2024-06-15 11:07:27,985 [1] INFO  AElf.Deploy.Cli.Program - Author: "tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2"
+2024-06-15 11:07:27,986 [1] INFO  AElf.Deploy.Cli.Program - Code hash: c787a717ee53d667dfca30bf7f17463a4c7bff4765e3c660c3a09ca328d23f00
+2024-06-15 11:07:27,987 [1] INFO  AElf.Deploy.Cli.Program - Address: "LP9D12iW5hC1FmKJ5YpzJPoeQ5C7hgFtiHxbNykk7W2XLf1c4"
+Version: 1
+ContractVersion: 1.0.0.0
+Height: 123580986
+2024-06-15 11:07:28,289 [1] INFO  AElf.Deploy.Cli.Program - Deploy Contract Info: { "serialNumber": "1909", "author": "tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2", "codeHash": "c787a717ee53d667dfca30bf7f17463a4c7bff4765e3c660c3a09ca328d23f00", "version": 1, "contractVersion": "1.0.0.0", "isUserContract": true, "deployer": "tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2" }

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "capstone_aelf", "capstone_aelf", "{E5CA59B9-8FEF-49F2-97A2-97E561380508}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildersDAO", "capstone_aelf\src\BuildersDAO.csproj", "{AB9E9E4C-4E11-44DB-A418-50EE252E2461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildersDAO.Tests", "capstone_aelf\test\BuildersDAO.Tests.csproj", "{6C89075B-7894-4214-9362-A4FB0E7AD2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9E9E4C-4E11-44DB-A418-50EE252E2461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9E9E4C-4E11-44DB-A418-50EE252E2461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9E9E4C-4E11-44DB-A418-50EE252E2461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9E9E4C-4E11-44DB-A418-50EE252E2461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C89075B-7894-4214-9362-A4FB0E7AD2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C89075B-7894-4214-9362-A4FB0E7AD2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C89075B-7894-4214-9362-A4FB0E7AD2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C89075B-7894-4214-9362-A4FB0E7AD2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB9E9E4C-4E11-44DB-A418-50EE252E2461} = {E5CA59B9-8FEF-49F2-97A2-97E561380508}
+		{6C89075B-7894-4214-9362-A4FB0E7AD2EA} = {E5CA59B9-8FEF-49F2-97A2-97E561380508}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA252C7-5B95-4F08-BAF5-20C76409A564}
+	EndGlobalSection
+EndGlobal
