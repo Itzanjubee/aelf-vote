@@ -1,26 +1,9 @@
-# AElf DevContainer (BETA)
+# The DAO Voting App
 
-To use this devcontainer, click "Use this template" > "Create a new repository".
+![image](https://github.com/Itzanjubee/aelf-vote/assets/170098537/28809913-4756-40ca-9b1a-000087f92039)
 
-## Pre-requisites
+![image](https://github.com/Itzanjubee/aelf-vote/assets/170098537/22bd10ae-04a2-47ff-ac44-1a3e3c3733db)
 
-- Docker: https://www.docker.com/
-- VS Code: https://code.visualstudio.com/
-
-## Create a new project
-
-Ensure that you have Docker installed and running.
-
-Clone your new repository to your local, then open the folder in VS Code.
-
-Press `F1` in VS Code and type/choose `Dev Containers: Reopen in Container`.
-
-## Scaffolding a new project
-
-To scaffold a new project, use:
-
-```bash
-dotnet new aelf -n HelloWorld
-```
-
-Note that if you change `HelloWorld` to some other name, you will need to amend your `.github/workflows/main.yml`:
+Address Used for Deployment: tAeWc3wsKkJeSsxA6JzYzhN8V3zqweyEA9L5Gkv8Bif1tLjA2  
+Contract Address: LP9D12iW5hC1FmKJ5YpzJPoeQ5C7hgFtiHxbNykk7W2XLf1c4  
+Interaction Address: ELF_nLKSsmkDkYUhAH1cH4ZKpmZUTyvf4gZARLrFn1fxq4GToMjCo_AELF  
